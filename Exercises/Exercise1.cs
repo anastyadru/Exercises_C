@@ -3,7 +3,7 @@
 using System;
 
 namespace Exercises
-{
+{ 
     public class Exercise1 : BaseExercise 
     {
         public override void Decide()

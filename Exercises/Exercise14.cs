@@ -16,9 +16,7 @@ namespace Exercises
                 for (var j = 0; j < array.GetLength(1); j++)
                 {
                     if (array[i, j] > max)
-                    {
                         max = array[i, j];
-                    }
                 }
 
                 Console.WriteLine(max);

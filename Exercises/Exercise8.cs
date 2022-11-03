@@ -16,9 +16,7 @@ namespace Exercises
             for (var i = 0; i < array.Length; i++)
             {
                 if ((array[i] > m) && (array[i] < n))
-                {
                     sum += array[i];
-                }
             }
 
             Console.Write(array + " ");

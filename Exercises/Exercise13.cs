@@ -16,9 +16,7 @@ namespace Exercises
             foreach (var word in words)
             {
                 if (word.ToUpper().StartsWith(symbol, StringComparison.CurrentCulture))
-                {
                     count += 1;
-                }
             }
 
             Console.WriteLine(count);
