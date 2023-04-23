@@ -1,0 +1,21 @@
+C:\Users\user\RiderProjects\Exercises\Exercises\obj\Debug\Exercises.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\Exercises\Exercises\obj\Debug\Exercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\RiderProjects\Exercises\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Exercises\Exercises\bin\Debug\Exercises.exe
+C:\Users\user\RiderProjects\Exercises\Exercises\bin\Debug\Exercises.pdb
+C:\Users\user\RiderProjects\Exercises\Exercises\obj\Debug\Exercises.exe
+C:\Users\user\RiderProjects\Exercises\Exercises\obj\Debug\Exercises.pdb
+C:\Users\user\RiderProjects\Exercises (дубль)\Exercises\bin\Debug\Exercises.exe
+C:\Users\user\RiderProjects\Exercises (дубль)\Exercises\bin\Debug\Exercises.pdb
+C:\Users\user\RiderProjects\Exercises (дубль)\Exercises\obj\Debug\Exercises.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\Exercises (дубль)\Exercises\obj\Debug\Exercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\RiderProjects\Exercises (дубль)\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Exercises (дубль)\Exercises\obj\Debug\Exercises.exe
+C:\Users\user\RiderProjects\Exercises (дубль)\Exercises\obj\Debug\Exercises.pdb
+C:\Users\user\Exercises_C\Exercises\Exercises\bin\Debug\Exercises.exe
+C:\Users\user\Exercises_C\Exercises\Exercises\bin\Debug\Exercises.pdb
+C:\Users\user\Exercises_C\Exercises\Exercises\obj\Debug\Exercises.csproj.AssemblyReference.cache
+C:\Users\user\Exercises_C\Exercises\Exercises\obj\Debug\Exercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Exercises_C\Exercises\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\user\Exercises_C\Exercises\Exercises\obj\Debug\Exercises.exe
+C:\Users\user\Exercises_C\Exercises\Exercises\obj\Debug\Exercises.pdb
